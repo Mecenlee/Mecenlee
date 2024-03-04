@@ -1,30 +1,36 @@
 # 一，基础信息
-SWU25届信管
-Android开发
-男，21
-
-# 二，工作经历
-
-滴滴-网约车-Android开发实习生
-
-OPPO-ColorOS系统研发中心-Andorid开发实习生
+学历：西南大学-本科
+专业：信管
+毕业时间：2025/07
+就业方向：Android开发
+性别：男
+年龄：21
 
 
+# 二，实习经历
 
+公司：滴滴
+部门：网约车
+时间：2023/07~2023/10
+岗位：Android开发实习生
 
+公司：OPPO
+部门：ColorOS系统研发中心
+时间：2023/11~2024/1
+岗位：Andorid开发实习生
 
+# 三，技术/求职规划
 
-<img align="right" width="108"  src="https://article-picture-resource.oss-cn-chengdu.aliyuncs.com/imags/152936182164.png" />
+2024/04~05：暑假实习面试
+2024/08~11：秋招面试
 
-- [滴滴出行科技有限公司](https://www.didiglobal.com/) &emsp; 📌 2023-05 —— 2023-10
- 
-  - 部&nbsp; &emsp; 门：网约车技术部
-  - 工作岗位：Android开发实习生
+复习进度：
+Java：70%
+计网：70%
+Android：40%
+算法：30%
+实习/项目：40%
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mecenlee)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Metrics](https://metrics.lecoq.io/Mecenlee?template=classic&isocalendar=1&languages=1&lines=1&habits=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.ignored=HTML%2CCSS%2CJavaScript&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&introduction=false&introduction.title=true&config.timezone=Asia%2FShanghai)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mecenlee)](https://github.com/anuraghazra/github-readme-stats)
-
+其他：
+Kotlin：工作项目使用过，了解基础特性
+web：学习三大件+Vue做过项目，可快速上手
