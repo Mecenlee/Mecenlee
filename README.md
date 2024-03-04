@@ -1,13 +1,19 @@
-### Hi there 👋
+# 一，基础信息
+SWU25届信管
+Android开发
+男，21
 
-- 🌱 I’m currently learning Kotlin for Android
-- 📫 Email -> swulmc@qq.com
+# 二，工作经历
 
-### 🏢 Work Experience
+滴滴-网约车-Android开发实习生
+
+OPPO-ColorOS系统研发中心-Andorid开发实习生
 
 
 
-<!--
+
+
+
 <img align="right" width="108"  src="https://article-picture-resource.oss-cn-chengdu.aliyuncs.com/imags/152936182164.png" />
 
 - [滴滴出行科技有限公司](https://www.didiglobal.com/) &emsp; 📌 2023-05 —— 2023-10
@@ -21,4 +27,4 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mecenlee)](https://github.com/anuraghazra/github-readme-stats)
--->
+
